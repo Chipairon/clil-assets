@@ -1,4 +1,7 @@
 body {
-  color: #FFF9EB;
+  background-color: #FFF9EB;
   font-family: Verdana;
+}
+#textDiv {
+  background-color: #FFF9EB;
 }
